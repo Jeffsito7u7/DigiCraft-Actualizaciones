@@ -1,9 +1,9 @@
 {
-  "bytes": 480606893,
   "schemaVersion": 1,
-  "version": "2.0.6",
-  "fileName": "DigiCraft-2.0.6.jar",
-  "sha256": "9a9db331270d0add548ab959c6c6d120841ab64652389d4c136d07b8fa8a7ef1",
-  "downloadUrl": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.0.6/DigiCraft-2.0.6.jar",
+  "version": "2.0.7",
+  "fileName": "DigiCraft-2.0.7.jar",
+  "sha256": "e2f3c4482f9492b48729d95c09dfb800c6131bd123106c4d294d9401653bcd09",
+  "bytes": 480654228,
+  "downloadUrl": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.0.7/DigiCraft-2.0.7.jar",
   "modId": "dedsafio-4-mechanics"
 }

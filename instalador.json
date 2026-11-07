@@ -1,12 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "notes": "Perfil actual DigiCraft 2.1.1. No incluye los parches pendientes.",
-  "version": "2.1.1",
+  "revision": 2,
+  "notes": "DigiCraft 2.2.0. El ReventÃ³n, mejoras del Limbo, manual, spawn protegido y ajustes de Sans y Peruvino.",
+  "version": "2.2.0",
   "minecraft": "1.21.1",
   "fabric": "0.20.1",
-  "fileName": "DigiCraft-perfil-2.1.1.zip",
-  "sha256": "c7cf014df312dc46d700ec208a6a03a5f350de8b41e921f02221bcc6283717b1",
-  "bytes": 1310964262,
-  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/instalador-perfil-2.1.1/DigiCraft-perfil-2.1.1.zip"
+  "fileName": "DigiCraft-perfil-2.2.0.zip",
+  "sha256": "5c22bba669f34e93087f0aee2efe3b2ab653f8fd67b65959fe5d5057b29216a7",
+  "bytes": 1312320229,
+  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.0/DigiCraft-perfil-2.2.0.zip",
+  "modPatch": {
+    "fileName": "DigiCraft-2.2.0.jar",
+    "bytes": 484889031,
+    "sha256": "d04ee9fa34689621393ca5bfbc96501049f60e23f0a9bd801feace1b11ac5f92",
+    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.0/DigiCraft-2.2.0.jar"
+  }
 }

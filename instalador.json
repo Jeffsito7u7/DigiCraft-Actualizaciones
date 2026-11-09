@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
-  "notes": "Corrección de El Reventón. Los híbridos aparecen solo al infectar a un jugador y persiguen a los afectados durante 15 segundos.",
-  "version": "2.2.1",
+  "revision": 4,
+  "notes": "DigiCraft 2.2.2. Barra de conexión, mejoras de los híbridos y correcciones del Mundo Blanco y del Limbo.",
+  "version": "2.2.2",
   "minecraft": "1.21.1",
   "fabric": "0.20.1",
-  "fileName": "DigiCraft-perfil-2.2.1.zip",
-  "sha256": "fff2afaab8de30080cc44069aa650947020da5d5afbd6158c53cf7d48818b221",
-  "bytes": 1312321321,
-  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.1/DigiCraft-perfil-2.2.1.zip",
+  "fileName": "DigiCraft-perfil-2.2.2.zip",
+  "sha256": "d874aca1e424e0cd38b6365736f0c62d4d88bf0b135edcc59ac9b8e2d1fb5635",
+  "bytes": 1313315475,
+  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.2/DigiCraft-perfil-2.2.2.zip",
   "modPatch": {
-    "fileName": "DigiCraft-2.2.1.jar",
-    "bytes": 484890061,
-    "sha256": "670b9d52b8b9ea50eecd4d910e107f965578a520b90ce17e3e50bef1369b77c9",
-    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.1/DigiCraft-2.2.1.jar"
+    "fileName": "DigiCraft-2.2.2.jar",
+    "bytes": 485040366,
+    "sha256": "12ccde12d8df51b9331bb1255116908eddbc7d8c4ffd615d862af1a13ac20c1f",
+    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.2/DigiCraft-2.2.2.jar"
   }
 }

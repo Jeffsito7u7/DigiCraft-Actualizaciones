@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
-  "notes": "DigiCraft 2.2.2. Barra de conexión, mejoras de los híbridos y correcciones del Mundo Blanco y del Limbo.",
-  "version": "2.2.2",
+  "revision": 5,
+  "notes": "DigiCraft 2.2.3. Ajustes de daño, equipo y cofres del Limbo. Correcciones de animación y retroceso de los zombis híbridos.",
+  "version": "2.2.3",
   "minecraft": "1.21.1",
   "fabric": "0.20.1",
-  "fileName": "DigiCraft-perfil-2.2.2.zip",
-  "sha256": "d874aca1e424e0cd38b6365736f0c62d4d88bf0b135edcc59ac9b8e2d1fb5635",
-  "bytes": 1313315475,
-  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.2/DigiCraft-perfil-2.2.2.zip",
+  "fileName": "DigiCraft-perfil-2.2.3.zip",
+  "sha256": "4da3a35598eefcc99da7e36d8b59745cd70ccb522878dc89ad48a7292b20b302",
+  "bytes": 1313311921,
+  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.3/DigiCraft-perfil-2.2.3.zip",
   "modPatch": {
-    "fileName": "DigiCraft-2.2.2.jar",
-    "bytes": 485040366,
-    "sha256": "12ccde12d8df51b9331bb1255116908eddbc7d8c4ffd615d862af1a13ac20c1f",
-    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.2/DigiCraft-2.2.2.jar"
+    "fileName": "DigiCraft-2.2.3.jar",
+    "bytes": 485036789,
+    "sha256": "774b7c6dce4818c5dd4c3f5bc653229cdb615032060f5c1eca75d75d38c1e2e1",
+    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.3/DigiCraft-2.2.3.jar"
   }
 }

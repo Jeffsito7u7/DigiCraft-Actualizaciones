@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": 5,
-  "notes": "DigiCraft 2.2.3. Ajustes de daño, equipo y cofres del Limbo. Correcciones de animación y retroceso de los zombis híbridos.",
-  "version": "2.2.3",
+  "revision": 6,
+  "notes": "DigiCraft 2.2.4. Corrección del cierre del juego al aparecer zombis híbridos con armadura, especialmente al iniciar el desafío del Limbo. Conserva el contenido de 2.2.3.",
+  "version": "2.2.4",
   "minecraft": "1.21.1",
   "fabric": "0.20.1",
-  "fileName": "DigiCraft-perfil-2.2.3.zip",
-  "sha256": "4da3a35598eefcc99da7e36d8b59745cd70ccb522878dc89ad48a7292b20b302",
-  "bytes": 1313311921,
-  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.3/DigiCraft-perfil-2.2.3.zip",
+  "fileName": "DigiCraft-perfil-2.2.4.zip",
+  "sha256": "73e44bc1a31f5cda7c795c24d72198b350a8a222d75b1824eacfd6b7a32a03e1",
+  "bytes": 1311833337,
+  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.4/DigiCraft-perfil-2.2.4.zip",
   "modPatch": {
-    "fileName": "DigiCraft-2.2.3.jar",
-    "bytes": 485036789,
-    "sha256": "774b7c6dce4818c5dd4c3f5bc653229cdb615032060f5c1eca75d75d38c1e2e1",
-    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.3/DigiCraft-2.2.3.jar"
+    "fileName": "DigiCraft-2.2.4.jar",
+    "bytes": 485005579,
+    "sha256": "69a3e2a9aea7dc90ac3482ee4c7f1542c657b1b440ff960572f67029d28e5a37",
+    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.4/DigiCraft-2.2.4.jar"
   }
 }

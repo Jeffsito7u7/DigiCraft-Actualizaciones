@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
-  "notes": "Néxora 2.2.5. Correcciones de tumbas y misiones, ajustes del Limbo, menú animado y cocina interactiva con Hands-On Delight.",
-  "version": "2.2.5",
+  "revision": 9,
+  "notes": "Néxora 2.3.0. Eclipse Solar, Supernova, linterna y batería, variantes de creepers y panel de administración.",
+  "version": "2.3.0",
   "minecraft": "1.21.1",
   "fabric": "0.20.1",
-  "fileName": "DigiCraft-perfil-2.2.5.zip",
-  "sha256": "ceebbeecfe7abcc56582cecd8af035765e073c74b7d1442dfe004335ec9408f3",
-  "bytes": 1359799909,
-  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.2.5/DigiCraft-perfil-2.2.5.zip"
+  "fileName": "DigiCraft-perfil-2.3.0.zip",
+  "sha256": "954c0b718e4fcf72a702a0ddac8e7e26f84780c3c450ebb125a799c55f73c6cb",
+  "bytes": 1476043251,
+  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.3.0/DigiCraft-perfil-2.3.0.zip"
 }

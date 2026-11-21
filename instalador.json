@@ -1,12 +1,23 @@
 {
   "schemaVersion": 1,
-  "revision": 9,
-  "notes": "Néxora 2.3.0. Eclipse Solar, Supernova, linterna y batería, variantes de creepers y panel de administración.",
-  "version": "2.3.0",
+  "revision": 10,
+  "notes": "2.3.1. Dificultad personalizada fuera del Limbo, audio de los eventos, compatibilidad visual con Distant Horizons y nueva tarjeta de CurseForge.",
+  "version": "2.3.1",
   "minecraft": "1.21.1",
   "fabric": "0.20.1",
-  "fileName": "DigiCraft-perfil-2.3.0.zip",
-  "sha256": "954c0b718e4fcf72a702a0ddac8e7e26f84780c3c450ebb125a799c55f73c6cb",
-  "bytes": 1476043251,
-  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.3.0/DigiCraft-perfil-2.3.0.zip"
+  "fileName": "DigiCraft-perfil-2.3.1.zip",
+  "sha256": "9b7e53eaf7110308aea1b9b9ce088a4042e9d702ed7b9b5efadaf578588288ed",
+  "bytes": 1478662036,
+  "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.3.1/DigiCraft-perfil-2.3.1.zip",
+  "profileBrand": "Nexoria",
+  "scopedModPatch": {
+    "fileName": "DigiCraft-2.3.1.jar",
+    "sha256": "a71124064bc4138baef2c0a2da5a54946eaf66cc8e9e3bafb4a97c47d1c41723",
+    "bytes": 603253032,
+    "url": "https://github.com/Jeffsito7u7/DigiCraft-Actualizaciones/releases/download/V2.3.1/DigiCraft-2.3.1.jar",
+    "fromVersions": {
+      "2.2.5": 8,
+      "2.3.0": 9
+    }
+  }
 }
